@@ -1,4 +1,6 @@
-# Fitting Poisson  distribution
+# NAME: TEJASHREE S S
+# REG NO: 24900167
+# FITTING POISSON DISTRIBUTION ###
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -30,11 +32,12 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+ ![poisson distribution](https://github.com/user-attachments/assets/2069b70c-025b-453e-98ce-e783ec81d987)
+
 
 # Output : 
 
-
+![Screenshot 2024-12-18 153649](https://github.com/user-attachments/assets/2e0366c8-a7b2-45bb-92c5-aeaad8f87594)
 
 # Results
 
